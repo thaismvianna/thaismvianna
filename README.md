@@ -9,7 +9,7 @@ Profissional em transição de carreira para a tecnologia, com foco em **desenvo
 - 🔹 Utilizo Git, GitHub, VS Code e Figma
 
 Atualmente nos cursos de formação:
-- 🎓 Bolsista Programaria Front-End (2025)
+- 🎓 Bolsista PrograMaria Front-End (2025)
 - 🎓 Aluna do Bootcamp Santander Front-End pela DIO (2025)
 
 
