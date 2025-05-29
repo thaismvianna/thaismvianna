@@ -25,9 +25,5 @@ Atualmente nos cursos de formação:
 ### 📈 Em breve
 Mais projetos e atualizações por aqui – estou construindo aos poucos minha jornada na tecnologia com foco, prática e consistência. Obrigada por visitar meu GitHub!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismvianna&layout=compact&theme=default)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaismvianna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
