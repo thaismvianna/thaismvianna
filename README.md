@@ -27,7 +27,11 @@ Mais projetos e atualizações por aqui – estou construindo aos poucos minha j
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismvianna&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismvianna&layout=compact&theme=tokyonight&card_width=360" 
+    alt="Linguagens mais usadas"
+  />
 
 </div>
+
 
