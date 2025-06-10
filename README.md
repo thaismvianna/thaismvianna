@@ -1,5 +1,9 @@
 ## Olá, eu sou a Thaís! 💻
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaismvianna/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=outlook&logoColor=white)](mailto:thaisvianna@outlook.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=&logoColor=white)](https://t.me/thaismv)
+
 Profissional em transição de carreira para a tecnologia, com foco em **desenvolvimento front-end**. Tenho experiência administrativa e estou me aprofundando em ferramentas e tecnologias modernas da área.
 
    Tecnologias em aprendizado:
