@@ -13,8 +13,8 @@ Profissional em transição de carreira para a tecnologia, com foco em **desenvo
 - 🔹 Utilizo Git, GitHub, VS Code e Figma
 
 Atualmente nos cursos de formação:
-- 🎓 Bolsista PrograMaria Front-End (2025)
-- 🎓 Aluna do Bootcamp Santander Front-End pela DIO (2025)
+- 🎓 Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE, uma formação intensiva de 6-9 meses de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
+
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
