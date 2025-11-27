@@ -13,7 +13,7 @@ Profissional em transição de carreira para a tecnologia, com foco em **desenvo
 - 🔹 Utilizo Git, GitHub, VS Code e Figma
 
 Atualmente nos cursos de formação:
-- 🎓 Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE, uma formação intensiva de 6-9 meses de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
+- 🎓 Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE (Aponti), uma formação intensiva de 6-9 meses de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
 
 
 
