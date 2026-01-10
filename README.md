@@ -4,11 +4,15 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=outlook&logoColor=white)](mailto:thaisvianna@outlook.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=&logoColor=white)](https://t.me/thaismv)
 
-Profissional em transição de carreira para a tecnologia, com foco em **desenvolvimento front-end**. Tenho experiência administrativa e estou me aprofundando em ferramentas e tecnologias modernas da área.
+Sou estudante de Análise e Desenvolvimento de Sistemas, e atualmente em transição de carreira para a área de tecnologia.
+
+Tenho focado meus estudos em desenvolvimento de software, com base em lógica de programação, além de participação em formações práticas voltadas ao desenvolvimento web.
+Minha trajetória anterior na área da saúde e administrativa contribuiu para o desenvolvimento de competências como organização, responsabilidade, escuta ativa e capacidade de aprender rapidamente em ambientes desafiadores.
+
+Busco minha primeira oportunidade de estágio na área de desenvolvimento de software, com interesse em aprofundar meus conhecimentos e explorar diferentes áreas da tecnologia, aliando aprendizado contínuo e prática profissional.
 
    Tecnologias em aprendizado:
-- 🔹 Estudando HTML5, CSS3, JavaScript e TypeScript
-- 🔹 Aprendendo React & Next.js (em andamento)
+- 🔹 Estudando HTML5, CSS3, JavaScript, React
 - 🔹 Praticando com projetos simples e funcionais
 - 🔹 Utilizo Git, GitHub, VS Code e Figma
 
@@ -22,7 +26,6 @@ Atualmente nos cursos de formação:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
