@@ -29,6 +29,3 @@ Atualmente nos cursos de formação:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 📈 Em breve
-Mais projetos e atualizações por aqui – estou construindo aos poucos minha jornada na tecnologia com foco, prática e consistência. Obrigada por visitar meu GitHub!
-
