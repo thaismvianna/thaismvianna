@@ -29,5 +29,10 @@ Atualmente nos cursos de formação:
 
 
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismvianna&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
