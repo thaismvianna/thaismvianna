@@ -13,11 +13,11 @@ Busco minha primeira oportunidade de estágio na área de desenvolvimento de sof
 
    Tecnologias em aprendizado:
 - 🔹 Estudando HTML5, CSS3, JavaScript, React
-- 🔹 Praticando com projetos simples e funcionais
+- 🔹 Praticando com projetos funcionais
 - 🔹 Utilizo Git, GitHub, VS Code e Figma
 
 Atualmente nos cursos de formação:
-- 🎓 Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE (Aponti), uma formação intensiva de 6-9 meses de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
+- 🎓 Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE (Aponti), uma formação intensiva de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
 
 
 
