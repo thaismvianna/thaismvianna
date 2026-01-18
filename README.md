@@ -19,8 +19,6 @@ Busco minha primeira oportunidade de estágio na área de desenvolvimento de sof
 Atualmente nos cursos de formação:
 - 🎓 Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE (Aponti), uma formação intensiva de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
 
-
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,4 +26,8 @@ Atualmente nos cursos de formação:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismvianna&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
