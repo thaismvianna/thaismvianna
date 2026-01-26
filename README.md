@@ -11,10 +11,10 @@ Minha trajetória anterior na área da saúde e administrativa contribuiu para o
 
 Busco minha primeira oportunidade de estágio na área de desenvolvimento de software, com interesse em aprofundar meus conhecimentos e explorar diferentes áreas da tecnologia, aliando aprendizado contínuo e prática profissional.
 
-   Tecnologias em aprendizado:
- 🔹 Estudando HTML5, CSS3, JavaScript, React
- 🔹 Praticando com projetos funcionais
- 🔹 Utilizo Git, GitHub, VS Code e Figma
+Tecnologias em aprendizado:
+- Estudando HTML5, CSS3, JavaScript, React
+- Praticando com projetos funcionais
+- Utilizo Git, GitHub, VS Code e Figma
 
 Atualmente nos cursos de formação:
 - Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE (Aponti), uma formação intensiva de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
