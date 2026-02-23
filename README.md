@@ -18,6 +18,7 @@ Tecnologias em aprendizado:
 
 Atualmente nos cursos de formação:
 - Programa Bolsa Futuro Digital (Front-end React) - MCTI e SoftexPE (Aponti), uma formação intensiva de forma presencial na UFF, que une tecnologia e resolução prática de problemas por meio da metodologia PBL.
+- Curso de Inteligência Artificial Aplicada – FAETEC, com estudos em fundamentos de IA, aplicações práticas e aprendizagem progressiva por trilhas digitais.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
