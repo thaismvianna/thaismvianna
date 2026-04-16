@@ -16,7 +16,9 @@ Tecnologias em aprendizado:
 - Praticando com projetos funcionais
 - Utilizo Git, GitHub, VS Code e Figma
 
-Atualmente, além da graduação, também participo do curso de formação:
+Atualmente residente em desenvolvimento front-end (Softex), com atuação em projetos reais.
+
+Também participo do curso de formação:
 - Curso de Inteligência Artificial Aplicada – FAETEC, com estudos em fundamentos de IA, aplicações práticas e aprendizagem progressiva por trilhas digitais.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
