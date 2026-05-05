@@ -12,11 +12,11 @@ Minha trajetória anterior na área da saúde e administrativa contribuiu para o
 Busco minha primeira oportunidade de estágio na área de desenvolvimento de software, com interesse em aprofundar meus conhecimentos e explorar diferentes áreas da tecnologia, aliando aprendizado contínuo e prática profissional.
 
 Tecnologias em aprendizado:
-- Estudando HTML5, CSS3, JavaScript, React
+- Estudando HTML5, CSS3, JavaScript, Typescript, React
 - Praticando com projetos funcionais
 - Utilizo Git, GitHub, VS Code e Figma
 
-Atualmente residente em desenvolvimento front-end (Softex), com atuação em projetos reais.
+Atualmente residente em desenvolvimento front-end (Softex/Aponti), com atuação em projetos reais.
 
 Também participo do curso de formação:
 - Curso de Inteligência Artificial Aplicada – FAETEC, com estudos em fundamentos de IA, aplicações práticas e aprendizagem progressiva por trilhas digitais.
