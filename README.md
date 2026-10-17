@@ -4,22 +4,15 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=outlook&logoColor=white)](mailto:thaisvianna@outlook.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=&logoColor=white)](https://t.me/thaismv)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, e atualmente em transição de carreira para a área de tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas, com formação prática em desenvolvimento web e experiência em projetos reais durante residência pela Softex(Aponti).
 
-Tenho focado meus estudos em desenvolvimento de software, com base em lógica de programação, além de participação em formações práticas voltadas ao desenvolvimento web.
-Minha trajetória anterior na área da saúde e administrativa contribuiu para o desenvolvimento de competências como organização, responsabilidade, escuta ativa e capacidade de aprender rapidamente em ambientes desafiadores.
+Tecnologias: HTML5, CSS3, JavaScript, TypeScript e React.
 
-Busco minha primeira oportunidade de estágio na área de desenvolvimento de software, com interesse em aprofundar meus conhecimentos e explorar diferentes áreas da tecnologia, aliando aprendizado contínuo e prática profissional.
+Ferramentas: Git, GitHub, VS Code e Figma.
 
-Tecnologias em aprendizado:
-- Estudando HTML5, CSS3, JavaScript, Typescript, React
-- Praticando com projetos funcionais
-- Utilizo Git, GitHub, VS Code e Figma
+Estou desenvolvendo minhas habilidades por meio de estudos e projetos práticos e busco minha primeira oportunidade de estágio em tecnologia.
 
-Atualmente residente em desenvolvimento front-end (Softex/Aponti), com atuação em projetos reais.
-
-Também participo do curso de formação:
-- Curso de Inteligência Artificial Aplicada – FAETEC, com estudos em fundamentos de IA, aplicações práticas e aprendizagem progressiva por trilhas digitais.
+Confira meus repositórios para conhecer meus projetos! 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
