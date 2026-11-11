@@ -26,7 +26,7 @@ Confira meus repositórios para conhecer meus projetos!
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=thaismvianna&layout=compact&theme=dark&card_width=340)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://raw.githubusercontent.com/thaismvianna/github-language-stats/main/assets/top-languages.svg)
 
 </div>
 
