@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com formação prática em 
 
 Tecnologias: HTML5, CSS3, JavaScript, TypeScript e React.
 
-Ferramentas: Git, GitHub, VS Code e Figma.
+Ferramentas: Git, GitHub, VS Code.
 
 Estou desenvolvendo minhas habilidades por meio de estudos e projetos práticos e busco minha primeira oportunidade de estágio em tecnologia.
 
@@ -26,7 +26,7 @@ Confira meus repositórios para conhecer meus projetos!
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismvianna&layout=compact&theme=dark&card_width=340)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=thaismvianna&layout=compact&theme=dark&card_width=340)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
