@@ -26,7 +26,7 @@ Confira meus repositórios para conhecer meus projetos!
 
 <div align="center">
 
-![Top Languages](https://raw.githubusercontent.com/thaismvianna/github-language-stats/main/assets/top-languages.svg)
+![Linguagens utilizadas](https://raw.githubusercontent.com/thaismvianna/thaismvianna/main/assets/top-languages.svg)
 
 </div>
 
