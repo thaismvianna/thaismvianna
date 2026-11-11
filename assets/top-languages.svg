@@ -1,14 +1,14 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     width="460"
-    height="178"
-    viewBox="0 0 460 178"
+    height="200"
+    viewBox="0 0 460 200"
   >
     <defs>
       <clipPath id="barClip">
         <rect
           x="16"
-          y="20"
+          y="42"
           width="428"
           height="10"
           rx="5"
@@ -18,17 +18,27 @@
 
        <rect
       width="460"
-      height="178"
+      height="200"
       rx="10"
       fill="#0d1117"
       stroke="#30363d"
     />
 
+        <text
+      x="230"
+      text-anchor="middle"
+      y="25"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="13"
+      font-weight="bold"
+      fill="#c9d1d9"
+    >Most Used Languages</text>
+
     <g clip-path="url(#barClip)">
       
     <rect
       x="16"
-      y="20"
+      y="42"
       width="174.54748603351956"
       height="10"
       fill="#e34c26"
@@ -36,7 +46,7 @@
   
     <rect
       x="190.54748603351956"
-      y="20"
+      y="42"
       width="96.83798882681565"
       height="10"
       fill="#3178c6"
@@ -44,7 +54,7 @@
   
     <rect
       x="287.3854748603352"
-      y="20"
+      y="42"
       width="88.46927374301676"
       height="10"
       fill="#663399"
@@ -52,7 +62,7 @@
   
     <rect
       x="375.85474860335194"
-      y="20"
+      y="42"
       width="46.625698324022345"
       height="10"
       fill="#f1e05a"
@@ -60,7 +70,7 @@
   
     <rect
       x="422.48044692737426"
-      y="20"
+      y="42"
       width="16.737430167597765"
       height="10"
       fill="#e38c00"
@@ -68,7 +78,7 @@
   
     <rect
       x="439.21787709497204"
-      y="20"
+      y="42"
       width="2.3910614525139664"
       height="10"
       fill="#DA5B0B"
@@ -76,7 +86,7 @@
   
     <rect
       x="441.608938547486"
-      y="20"
+      y="42"
       width="1.1955307262569832"
       height="10"
       fill="#012456"
@@ -84,7 +94,7 @@
   
     <rect
       x="442.804469273743"
-      y="20"
+      y="42"
       width="1.1955307262570045"
       height="10"
       fill="#4F5D95"
@@ -96,14 +106,14 @@
     <g>
       <circle
         cx="21"
-        cy="58"
+        cy="80"
         r="5"
         fill="#e34c26"
       />
 
       <text
         x="33"
-        y="62"
+        y="84"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -111,7 +121,7 @@
 
       <text
         x="222"
-        y="62"
+        y="84"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
@@ -122,14 +132,14 @@
     <g>
       <circle
         cx="21"
-        cy="84"
+        cy="106"
         r="5"
         fill="#3178c6"
       />
 
       <text
         x="33"
-        y="88"
+        y="110"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -137,7 +147,7 @@
 
       <text
         x="222"
-        y="88"
+        y="110"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
@@ -148,14 +158,14 @@
     <g>
       <circle
         cx="21"
-        cy="110"
+        cy="132"
         r="5"
         fill="#663399"
       />
 
       <text
         x="33"
-        y="114"
+        y="136"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -163,7 +173,7 @@
 
       <text
         x="222"
-        y="114"
+        y="136"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
@@ -174,14 +184,14 @@
     <g>
       <circle
         cx="21"
-        cy="136"
+        cy="158"
         r="5"
         fill="#f1e05a"
       />
 
       <text
         x="33"
-        y="140"
+        y="162"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -189,7 +199,7 @@
 
       <text
         x="222"
-        y="140"
+        y="162"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
@@ -200,14 +210,14 @@
     <g>
       <circle
         cx="235"
-        cy="58"
+        cy="80"
         r="5"
         fill="#e38c00"
       />
 
       <text
         x="247"
-        y="62"
+        y="84"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -215,7 +225,7 @@
 
       <text
         x="436"
-        y="62"
+        y="84"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
@@ -226,14 +236,14 @@
     <g>
       <circle
         cx="235"
-        cy="84"
+        cy="106"
         r="5"
         fill="#DA5B0B"
       />
 
       <text
         x="247"
-        y="88"
+        y="110"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -241,7 +251,7 @@
 
       <text
         x="436"
-        y="88"
+        y="110"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
@@ -252,14 +262,14 @@
     <g>
       <circle
         cx="235"
-        cy="110"
+        cy="132"
         r="5"
         fill="#012456"
       />
 
       <text
         x="247"
-        y="114"
+        y="136"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -267,7 +277,7 @@
 
       <text
         x="436"
-        y="114"
+        y="136"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
@@ -278,14 +288,14 @@
     <g>
       <circle
         cx="235"
-        cy="136"
+        cy="158"
         r="5"
         fill="#4F5D95"
       />
 
       <text
         x="247"
-        y="140"
+        y="162"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
@@ -293,7 +303,7 @@
 
       <text
         x="436"
-        y="140"
+        y="162"
         text-anchor="end"
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
