@@ -39,63 +39,63 @@
     <rect
       x="16"
       y="42"
-      width="172.14325068870525"
+      width="171.20000000000002"
       height="10"
       fill="#e34c26"
     />
   
     <rect
-      x="188.14325068870525"
+      x="187.20000000000002"
       y="42"
-      width="95.50413223140497"
+      width="94.98082191780821"
       height="10"
       fill="#3178c6"
     />
   
     <rect
-      x="283.6473829201102"
+      x="282.1808219178082"
       y="42"
-      width="87.25068870523417"
+      width="86.77260273972603"
       height="10"
       fill="#663399"
     />
   
     <rect
-      x="370.89807162534436"
+      x="368.95342465753424"
       y="42"
-      width="45.98347107438017"
+      width="45.73150684931507"
       height="10"
       fill="#f1e05a"
     />
   
     <rect
-      x="416.88154269972455"
+      x="414.6849315068493"
       y="42"
-      width="22.402203856749313"
+      width="24.624657534246577"
       height="10"
       fill="#e38c00"
     />
   
     <rect
-      x="439.2837465564739"
+      x="439.3095890410959"
       y="42"
-      width="2.3581267217630852"
+      width="2.345205479452055"
       height="10"
       fill="#DA5B0B"
     />
   
     <rect
-      x="441.641873278237"
+      x="441.6547945205479"
       y="42"
-      width="1.1790633608815426"
+      width="1.1726027397260275"
       height="10"
       fill="#012456"
     />
   
     <rect
-      x="442.8209366391185"
+      x="442.8273972602739"
       y="42"
-      width="1.1790633608815142"
+      width="1.1726027397260737"
       height="10"
       fill="#4F5D95"
     />
@@ -126,7 +126,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
-      >40.22%</text>
+      >40.00%</text>
     </g>
   
     <g>
@@ -152,7 +152,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
-      >22.31%</text>
+      >22.19%</text>
     </g>
   
     <g>
@@ -178,7 +178,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
-      >20.39%</text>
+      >20.27%</text>
     </g>
   
     <g>
@@ -204,7 +204,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
-      >10.74%</text>
+      >10.68%</text>
     </g>
   
     <g>
@@ -230,7 +230,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
-      >5.23%</text>
+      >5.75%</text>
     </g>
   
     <g>
@@ -282,7 +282,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
-      >0.28%</text>
+      >0.27%</text>
     </g>
   
     <g>
@@ -308,7 +308,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="12"
         fill="#c9d1d9"
-      >0.28%</text>
+      >0.27%</text>
     </g>
   
   </svg>
